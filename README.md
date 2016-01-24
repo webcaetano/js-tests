@@ -1,5 +1,5 @@
 # js-tests
-@webcaetano Javascript Tests
+Javascript Tests
 
 # Tests 
 
