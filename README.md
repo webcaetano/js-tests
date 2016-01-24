@@ -3,9 +3,21 @@
 
 # Tests 
 
-#### Push vs Manual Push
+#### Push vs Manual Push `Array insert`
 http://jsbin.com/giturolafe/1/edit?js,console
 
-<sub><strong>Resul:</strong></sub><br>
-![result](https://cloud.githubusercontent.com/assets/2578320/12539389/566f8f1e-c2d8-11e5-83c5-abd710b6d4ed.png)
+<sub><strong>Result:</strong></sub><br>
+```
+push: 1648.202ms
+manual: 324.871ms
+```
 
+
+#### Plus vs Number `Str to Num`
+http://jsbin.com/lebufeqilo/1/edit?js,console
+
+<sub><strong>Result:</strong></sub><br>
+```
+number: 1132.844ms
+plus: 1389.620ms
+```
