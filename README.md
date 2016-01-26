@@ -22,7 +22,7 @@ number: 1132.844ms
 plus: 1389.620ms
 ```
 
-### Double Bitwise vs Math.floor `Number round`
+#### Double Bitwise vs Math.floor `Number round`
 http://jsbin.com/duhepazewo/1/edit?js,console
 
 <sub><strong>Result:</strong></sub><br>
