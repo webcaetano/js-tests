@@ -30,3 +30,12 @@ http://jsbin.com/duhepazewo/1/edit?js,console
 bitwise: 157.803ms
 floor: 390.793ms
 ```
+
+#### Quotes vs String `Parse to string`
+http://jsbin.com/qorozudare/1/edit?js,console
+
+<sub><strong>Result:</strong></sub><br>
+```
+quotes: 2760.055ms
+string: 3690.624ms
+```
