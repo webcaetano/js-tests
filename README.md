@@ -31,7 +31,7 @@ bitwise: 157.803ms
 floor: 390.793ms
 ```
 
-#### Quotes vs String `Parse to string`
+#### Quotes vs String() `Parse to string`
 http://jsbin.com/qorozudare/1/edit?js,console
 
 <sub><strong>Result:</strong></sub><br>
